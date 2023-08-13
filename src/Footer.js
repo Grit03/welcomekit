@@ -128,7 +128,7 @@ function Footer() {
           to="https://forms.gle/PWEJraHexknxPV79A"
           isvisible={isButtonVisible ? 1 : 0}
         >
-          구 매 하 기
+          구글 폼에서 구매하기
         </Button>
       </FooterFixed>
     </>
