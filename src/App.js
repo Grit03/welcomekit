@@ -16,7 +16,7 @@ function App() {
           src="/detail.png"
           width="100%"
           alt="detail"
-          style={{ paddingBottom: "100px", backgroundColor: "white" }}
+          style={{ paddingBottom: "100px", backgroundColor: "#282626" }}
         />
       </main>
       <Footer />
